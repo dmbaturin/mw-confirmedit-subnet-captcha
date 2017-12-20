@@ -3,7 +3,13 @@ mw-confirmedit-subnet-captcha
 
 A subnet calculation captcha plugin for MediaWiki ConfirmEdit extension.
 
-== Installation ==
+# NOTICE
+
+This plugin doesn't appear to work with modern MediaWiki versions. I'm not using it with my own wikis
+anymore so don't have motivation to fix it, and it's now archived. You are free to fork it and take it up
+if you are interested.
+
+# Installation
 
 Install ConfirmEdit extension (http://www.mediawiki.org/wiki/Extension:ConfirmEdit)
 if not installed already.
